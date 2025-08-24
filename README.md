@@ -1,5 +1,8 @@
 # Sports Data API Client
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+
 A professional Python API client for extracting sports betting data directly from APIs with advanced security features, intelligent caching, and comprehensive data processing capabilities.
 
 ## 🌟 Features
@@ -181,6 +184,10 @@ This project is for educational and research purposes. Please comply with the ta
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
